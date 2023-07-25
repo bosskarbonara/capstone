@@ -1,0 +1,15 @@
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.vbproj.AssemblyReference.cache
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.vbproj.SuggestedBindingRedirects.cache
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.Form1.resources
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.Resources.resources
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.vbproj.GenerateResource.cache
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.vbproj.CoreCompileInputs.cache
+C:\Users\bahogbilat\source\repos\capstone\capstone\bin\Debug\capstone.exe.config
+C:\Users\bahogbilat\source\repos\capstone\capstone\bin\Debug\capstone.exe
+C:\Users\bahogbilat\source\repos\capstone\capstone\bin\Debug\capstone.pdb
+C:\Users\bahogbilat\source\repos\capstone\capstone\bin\Debug\capstone.xml
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.exe
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.xml
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.pdb
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.admin.resources
+C:\Users\bahogbilat\source\repos\capstone\capstone\obj\Debug\capstone.home.resources
